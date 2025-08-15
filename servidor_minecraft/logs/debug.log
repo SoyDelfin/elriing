@@ -845,3 +845,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Aug2025 12:56:48.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lukio013: Played sound minecraft:custom.elmitx to lukio013]
 [15Aug2025 12:56:53.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lukio013: Stopped all sounds]
 [15Aug2025 12:57:09.593] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x9b029f9fc1ed6171
+[15Aug2025 12:58:38.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ufc
+[15Aug2025 12:58:38.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ufc
+[15Aug2025 13:03:38.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ufc
+[15Aug2025 13:03:38.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ufc
